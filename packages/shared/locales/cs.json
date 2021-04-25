@@ -5,13 +5,13 @@
             "body": "Firefly je oficiální peněženka IOTA."
         },
         "legal": {
-            "title": "Ochrana osobních údajů a smluvní podmínky",
-            "body": "Zkontrolujte zásady ochrany osobních údajů a podmínky služby.",
-            "checkbox": "Četl jsem a souhlasím se Zásadami ochrany osobních údajů a podmínkami služby"
+            "title": "Zásady ochrany osobních údajů a smluvní podmínky",
+            "body": "Zkontrolujte Zásady ochrany osobních údajů a Smluvní podmínky.",
+            "checkbox": "Četl jsem a souhlasím se Zásadami ochrany osobních údajů a Smluvními podmínkami"
         },
         "appearance": {
             "title": "Vzhled",
-            "body": "Vybrat vzhled applikace."
+            "body": "Vyberte vzhled aplikace."
         },
         "profile": {
             "title": "Vytvořit profil",
@@ -20,7 +20,7 @@
             "profileName": "Název profilu"
         },
         "setup": {
-            "title": "Nastavit peněženku",
+            "title": "Nastavení peněženky",
             "chrysalisTitle": "Aktualizace sítě Chrysalis",
             "chrysalisBody": "Od 21. dubna mohou uživatelé migrovat své tokeny do nové sítě Chrysalis. Doporučujeme vám co nejdříve migrovat vaše stávající tokeny.",
             "learnMore": "Přečtěte si o migraci"
@@ -147,7 +147,7 @@
             "restoringWallet": "Obnovuji peněženku...",
             "findingBalance": "Hledání zůstatku...",
             "incorrectSeedVaultPassword": "Nesprávné heslo k SeedVaultu.",
-            "noDataSeedVault": "No data could be found in the SeedVault.",
+            "noDataSeedVault": "V SeedVaultu nebyla nalezena žádná data.",
             "signingBundle": "Podepisování balíčku",
             "broadcastingBundle": "Posílání balíčku",
             "miningBundle": "Těžení balíčku",
@@ -247,8 +247,8 @@
             "appLock": {
                 "title": "Automatický zámek",
                 "description": "Čas nečinnosti před uzamknutím peněženek a odhlášeni",
-                "durationMinute": "{time, plural, one {1 minute} other {# minutes}}",
-                "durationHour": "{time, plural, one {1 hour} other {# hours}}"
+                "durationMinute": "{time, plural, one {1 minuta} other {# minut}}",
+                "durationHour": "{time, plural, one {# hodina} other {# hodin}}"
             },
             "changePassword": {
                 "title": "Změna hesla",
@@ -257,7 +257,7 @@
             "changePincode": {
                 "title": "Změnit PIN kód",
                 "description": "Váš PIN udržuje Váš zůstatek a transakce soukromé",
-                "currentPincode": "Aktuální PIN kód",
+                "currentPincode": "Aktuální PIN",
                 "newPincode": "Nový PIN",
                 "confirmNewPincode": "Potvrďte nový PIN",
                 "action": "Změnit PIN"
@@ -701,7 +701,7 @@
         "sentFrom": "Odesláno z {account}",
         "receiving": "Přijímání",
         "sending": "Odesílání",
-        "legacyNetwork": "Legacy Network"
+        "legacyNetwork": "Zastaralá síť"
     },
     "dates": {
         "today": "Dnes",

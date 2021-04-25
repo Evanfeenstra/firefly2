@@ -22,7 +22,7 @@
         "setup": {
             "title": "Despliega una cartera",
             "chrysalisTitle": "Actualización de red Chrysalis",
-            "chrysalisBody": "Desde el 21 de sbril, los usuarios podrán migrar sus tokens a la nueva red Chrysalis. Te recomendamos migrar tus tokens existentes lo antes posible.",
+            "chrysalisBody": "Desde el 21 de abril, los usuarios podrán migrar sus tokens a la nueva red Chrysalis. Te recomendamos migrar tus tokens existentes lo antes posible.",
             "learnMore": "Aprende acerca de la migración"
         },
         "secure": {
@@ -53,7 +53,7 @@
         "backup": {
             "title": "Respaldar tu cartera",
             "body1": "Ahora se te mostrará una frase de recuperación. Escríbela en tu Kit de Recuperación.",
-            "body2": "No compartas tu frase de recuperación con nadie. Puede utilizarse para acceder a sus tokens desde cualquier lugar.",
+            "body2": "No compartas tu frase de recuperación con nadie. Puede utilizarse para acceder a tus tokens desde cualquier lugar.",
             "body3": "Si pierdes tu frase de recuperación, puedes perder tus fondos."
         },
         "recoveryPhrase": {
@@ -147,7 +147,7 @@
             "restoringWallet": "Restaurando cartera...",
             "findingBalance": "Buscando balance...",
             "incorrectSeedVaultPassword": "Contraseña de SeedVault incorrecta.",
-            "noDataSeedVault": "No se han encontrado datos en SeedVault.",
+            "noDataSeedVault": "No se han encontrado datos en el SeedVault.",
             "signingBundle": "Firmando paquete",
             "broadcastingBundle": "Transmitiendo paquete",
             "miningBundle": "Minando paquete",

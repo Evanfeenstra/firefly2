@@ -701,7 +701,7 @@
         "sentFrom": "Gesendet von {account}",
         "receiving": "Empfange",
         "sending": "Sende",
-        "legacyNetwork": "Pre-Chrysalis Netzwerk"
+        "legacyNetwork": "Altes Netzwerk"
     },
     "dates": {
         "today": "Heute",

@@ -10,7 +10,7 @@
             "checkbox": "Я прочитав і приймаю Політику конфіденційності та Умови надання послуг"
         },
         "appearance": {
-            "title": "Оформлення",
+            "title": "Зовнішній вигляд",
             "body": "Оберіть тему"
         },
         "profile": {
@@ -22,13 +22,13 @@
         "setup": {
             "title": "Налаштування гаманця",
             "chrysalisTitle": "Оновлення мережі Chrysalis",
-            "chrysalisBody": "З 21 квітня користувачі можуть мігрувати свої токени в нову Хризалісову мережу. Ми рекомендуємо вам перенести існуючі токени якомога швидше.",
+            "chrysalisBody": "З 21 квітня користувачі можуть перенести свої токени в нову мережу Chrysalis. Ми рекомендуємо вам зробити це якомога швидше.",
             "learnMore": "Дізнатися про міграцію"
         },
         "secure": {
             "title": "Захистіть ваш гаманець",
             "body1": "Зберегти та роздрукувати шаблон Recovery Kit PDF.",
-            "body2": "Якщо ви заповните Recovery Kit і будете зберігати беспечно, ви завжди зможете відновити ваші гаманці."
+            "body2": "Якщо ви заповните Recovery Kit і будете зберігати її беспечно, ви завжди зможете відновити ваші гаманці."
         },
         "password": {
             "title": "Створіть пароль",
@@ -66,82 +66,82 @@
         },
         "verifyRecoveryPhrase": {
             "title": "Перевірте фразу відновлення",
-            "body": "Let's check you wrote down the phrase correctly. Please select each word in numbered order.",
-            "word": "Word",
-            "verified": "Recovery phrase verified",
-            "verifiedBody": "Remember to keep it private and safely stored."
+            "body": "Давайте перевіримо, чи правильно ви записали фразу. Будь ласка, виберіть кожне слово в нумерованому порядку.",
+            "word": "Слово",
+            "verified": "Фразу відновлення перевірено",
+            "verifiedBody": "Зберігайте фразу відновлення в безпечному місці."
         },
         "backupWallet": {
             "title": "Зробити резервну копію Stronghold",
-            "body1": "Enter your password to backup your wallets to a Stronghold file. Your password is used to encrypt the backup.",
-            "body2": "Reasons why digital backups are important:",
-            "reason1": "Easily recover your wallets without typing in your recovery phrase",
-            "reason2": "Import your wallets on other devices",
-            "reason3": "Recover your full transaction history"
+            "body1": "Введіть свій пароль для резервного копіювання гаманців у файл Stronghold. Ваш пароль використовується для шифрування резервної копії.",
+            "body2": "Причини, чому цифрові резервні копії важливі:",
+            "reason1": "Ви можете з легкістю відновити свої гаманці, не вводячи фразу для відновлення",
+            "reason2": "Імпортувати ваші гаманці на інших пристроях",
+            "reason3": "Відновити всю історію транзакцій"
         },
         "recoveryPhraseSaved": {
             "title": "Резервне копіювання успішно виконано",
-            "body": "You have backed up your wallets to a Stronghold."
+            "body": "Ви створили резервну копію своїх гаманців для Stronghold."
         },
         "congratulations": {
-            "title": "Wallet setup completed",
-            "body": "Your new wallet is ready to use.",
-            "fundsMigrated": "Funds migrated",
-            "success": "You have successfully migrated your funds to the new network",
-            "exportMigration": "Export migration log and finish setup"
+            "title": "Налаштування гаманця завершено",
+            "body": "Вітаємо! Ваш новий гаманець готовий до використання.",
+            "fundsMigrated": "Кошти мігрували",
+            "success": "Ви успішно перенесли свої кошти в нову мережу",
+            "exportMigration": "Експортуйте журнал міграції та завершіть налаштування"
         },
         "import": {
-            "title": "Recover or migrate funds",
-            "body": "If you have an existing seed or wallet back up file, you can import it here. If you hold older network funds, you will be taken through the migration steps to move to the Chrysalis network.",
-            "importSeed": "I have an 81 character seed",
-            "importSeedDescription": "Enter a seed and migrate funds to Chrysalis",
-            "importMnemonic": "I have a Firefly recovery phrase",
-            "importMnemonicDescription": "Enter your recovery phrase to recover your wallets",
-            "importFile": "I have a file backup",
-            "importFileDescription": "Upload a Seedvault or Stronghold file"
+            "title": "Відновити або перенести кошти",
+            "body": "Якщо у вас є файл резервної копії \"seed\" або \"wallet back up file\", ви можете імпортувати його сюди. Якщо у вас є кошти які потрібно перенести, ви пройдете кроки міграції, до мережі Chrysalis.",
+            "importSeed": "Так я маю 81 символ \"seed\"",
+            "importSeedDescription": "Введіть \"seed\" та перенесіть кошти до \"Chrysalis\"",
+            "importMnemonic": "У мене є фраза для відновлення Firefly",
+            "importMnemonicDescription": "Введіть фразу для відновлення, щоб відновити гаманці",
+            "importFile": "Я маю файл \"backup\"",
+            "importFileDescription": "Завантажте файл \"Seedvault\" або \"Stronghold\""
         },
         "importFromText": {
             "seed": {
-                "title": "Type your seed to commence migration",
-                "body": "A seed consists of 81 characters. This is used to recover from the older Trinity app.",
-                "enter": "Enter your seed"
+                "title": "Введіть \"seed\", щоб розпочати міграцію",
+                "body": "Ваш \"seed\" складається з 81 символу. Це потрібно для відновлення з попередньої програми Trinity.",
+                "enter": "Введіть ваш \"seed\""
             },
             "mnemonic": {
-                "title": "Type your recovery phrase",
-                "body": "A recovery phrase is 24 words long, all lower case, with spaces between. This is used to recover existing Firefly wallets.",
-                "enter": "Enter your secret recovery phrase"
+                "title": "Введіть вашу фразу для відновлення",
+                "body": "Фраза для відновлення складається з 24 слів, всі з малої літери та відступом. Це використовується для відновлення наявних гаманців Firefly.",
+                "enter": "Введіть вашу секретну фразу для відновлення"
             },
-            "seedDetected": "81 character seed detected",
-            "phraseDetected": "24 word recovery phrase detected",
-            "checksum": "Checksum"
+            "seedDetected": "Знайдено \"seed\" який складається з 81 символу",
+            "phraseDetected": "Знайдено фразу для відновлення з 24 слів",
+            "checksum": "Контрольна сума"
         },
         "importFromFile": {
-            "title": "Restore your wallets using a backup file",
-            "body": "Import a backup file to restore your wallets. Backups can either be a Stronghold (.stronghold) or a Trinity SeedVault (.kdbx)."
+            "title": "Відновіть свої гаманці за допомогою \"backup file\"",
+            "body": "Імпортуйте \"backup file\", щоб відновити гаманці. Резервні копії можуть бути Stronghold (.stronghold) або Trinity SeedVault (.kdbx)."
         },
         "importBackupPassword": {
-            "title": "Restore your wallets from a SeedVault or Stronghold",
+            "title": "Відновіть свої гаманці з SeedVault або Stronghold",
             "body1": "Будь ласка введіть пароль для захисту резервної копії.",
             "body2": "Це пароль, який ви встановили під час створення резервної копії."
         },
         "importSuccess": {
             "title": "Ви успішно відновили резервну копію",
-            "body": "You can now set up your new profile.",
-            "seedvaultTitle": "Successfully imported",
-            "seedvaultBody": "Your password is correct, you can now continue.",
-            "strongholdTitle": "Successfully imported",
-            "strongholdBody": "Your password is correct, you can now continue."
+            "body": "Тепер ви можете налаштувати свій новий профіль.",
+            "seedvaultTitle": "Імпорт завершено успішно",
+            "seedvaultBody": "Ваш пароль правильний, тепер ви можете продовжувати.",
+            "strongholdTitle": "Імпорт успішно завершено",
+            "strongholdBody": "Ваш пароль правильний, тепер ви можете продовжувати."
         },
         "migrate": {
             "title": "Перенести свої кошти",
-            "body1": "This is an automated process to transfer your funds to your new wallet.",
+            "body1": "Це автоматизований процес переказу коштів на новий гаманець.",
             "body2": "Це може зайняти деякий час. Не вимикайте пристрій під час міграції.",
             "existing": "Ваш старий гаманець",
             "new": "Ваш новий гаманець",
             "learn": "Дізнатися про міграцію",
-            "beginMigration": "Begin Migration",
-            "migrating": "Migrating funds...",
-            "migrated": "{balance} migrated",
+            "beginMigration": "Почати міграцію",
+            "migrating": "Перенесення коштів...",
+            "migrated": "{balance} переміщено",
             "migrationFailed": "Migration Failed",
             "noAddressesForMigration": "Please select the addresses you wish to secure.",
             "restoringWallet": "Restoring wallet...",
@@ -303,7 +303,7 @@
                 "description": "Complete proof of work locally on your device or outsource to the node"
             },
             "errorLog": {
-                "title": "Звіт помилок",
+                "title": "Журнал помилок",
                 "description": "View errors to debug an issue"
             },
             "diagnostics": {
@@ -493,10 +493,10 @@
         "token": "Token",
         "accountValue": "Wallet Value",
         "accountActivity": "Wallet Activity",
-        "timeframe1Hour": "1 hour",
-        "timeframe1Day": "1 day",
-        "timeframe1Week": "1 week",
-        "timeframe1Month": "1 month"
+        "timeframe1Hour": "1 година",
+        "timeframe1Day": "1 день",
+        "timeframe1Week": "1 тиждень",
+        "timeframe1Month": "1 місяць"
     },
     "actions": {
         "continue": "Продовжити",

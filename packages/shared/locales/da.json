@@ -51,10 +51,10 @@
             "body2": "Indtast din pinkode igen for at fortsætte. "
         },
         "backup": {
-            "title": "Sikkerhedskopier din tegnebog",
+            "title": "Sikkerhedskopier din wallet",
             "body1": "Du vil nu få vist dine gendannelsesord. Skriv den ned i dit Recovery Kit.",
             "body2": "Del ikke dine gendannelsesord med andre. Den kan bruges til at tilgå dine tokens alle steder fra.",
-            "body3": "Hvis du mister din gendannelsessætning, kan du miste dine penge."
+            "body3": "Hvis du mister dine gendannelsesord, kan du miste dine midler."
         },
         "recoveryPhrase": {
             "title": "Gendannelsesssætning",
@@ -133,11 +133,11 @@
             "strongholdBody": "Din adgangskode er korrekt, du kan nu fortsætte."
         },
         "migrate": {
-            "title": "Migrér dine penge",
+            "title": "Migrér dine midler",
             "body1": "Dette er en automatiseret proces til at overføre dine midler til din nye wallet.",
-            "body2": "Det kan tage nogen tid. Sluk ikke din enhed under migrationen.",
-            "existing": "Din gamle tegnebog",
-            "new": "Din nye tegnebog",
+            "body2": "Det kan tage lidt tid. Sluk ikke din enhed under migrationen.",
+            "existing": "Din gamle wallet",
+            "new": "Din nye wallet",
             "learn": "Lær om migrationen",
             "beginMigration": "Begynd Migration",
             "migrating": "Migrerer midler...",
@@ -154,7 +154,7 @@
             "problemRestoringWallet": "Der opstod en netværksfejl under gendannelse af din wallet. Prøv igen.",
             "minimumMigrationAmountSpentAddresses": "Det mindste migrationsbeløb for hver brugt adresse er 1 Mi. Tjek igen, hvis din saldo ikke ser rigtig ud.",
             "tooManyAddressesToMigrate": "Du har for mange adresser med lav saldo til at migrere. Tjek igen, hvis din saldo ikke ser rigtigt ud.",
-            "cannotMigrateAllYourFunds": "Vi kan ikke migrere alle dine penge, fordi nogle adresser har for lav værdi. Du kan fortsætte alligevel. {value} vil gå tabt.",
+            "cannotMigrateAllYourFunds": "Vi kan ikke migrere alle dine midler, fordi nogle adresser har for lav værdi. Du kan fortsætte alligevel. {value} vil gå tabt.",
             "error": "Der opstod en fejl under migrering af dine midler. Prøv igen."
         },
         "bundleMiningWarning": {
@@ -509,7 +509,7 @@
         "importSeed": "Importer et eksisterende seed",
         "restoreWallet": "Migrér eller gendan en wallet",
         "restoreWalletDescription": "Migrér til Chrysalis eller gendan en eksisterende wallet",
-        "createWallet": "Opret ny tegnebog",
+        "createWallet": "Opret ny wallet",
         "createWalletDescription": "Opret en frisk wallet, der kører på Chrysalis",
         "savePassword": "Gem adgangskode",
         "useBiometric": "Brug biometrisk sikkerhed",
@@ -602,7 +602,7 @@
         "received": "Modtaget",
         "sendPayment": "Send Betaling",
         "moveFunds": "Intern Overførsel",
-        "sendFunds": "Send penge",
+        "sendFunds": "Send midler",
         "sendToAddress": "Send til adresse",
         "scanQrOrPaste": "Scan en QR-kode eller indsæt en adresse",
         "moveFundsBetweenAccounts": "Flyt midler mellem wallets",

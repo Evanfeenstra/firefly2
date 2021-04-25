@@ -31,7 +31,7 @@
             "body2": "Hvis du fyller ut Recovery Kit og oppbevarer det trygt, vil du alltid kunne gjenopprette lommebøkene dine."
         },
         "password": {
-            "title": "Opprett passord",
+            "title": "Opprett et passord",
             "body1": "Du trenger et sterkt passord for å beskytte midlene dine. Kombiner forskjellige ord, og unngå vanlige fraser, navn og datoer.",
             "body2": "Det anbefales at du skriver ned passordet i ditt Recovery Kit."
         },
@@ -251,11 +251,11 @@
                 "durationHour": "{time, plural, one {1 time} other {# timer}}"
             },
             "changePassword": {
-                "title": "Bytt passord",
+                "title": "Endre passord",
                 "description": "Passordet ditt brukes til å sikre lommeboken. Du må bruke et sterkt passord for å beskytte midlene."
             },
             "changePincode": {
-                "title": "Endre PIN-koden",
+                "title": "Endre PIN-kode",
                 "description": "PIN-koden holder saldoen din og transaksjonene dine privat",
                 "currentPincode": "Gjeldende PIN-kode",
                 "newPincode": "Ny PIN-kode",
@@ -356,7 +356,7 @@
                     "noneDetected": "Ingen oppdaget"
                 },
                 "strongholdStatus": {
-                    "title": "Lommebok status",
+                    "title": "Lommebok-status",
                     "locked": "Låst",
                     "unlocked": "Ulåst"
                 },

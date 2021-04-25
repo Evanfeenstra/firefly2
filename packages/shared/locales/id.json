@@ -238,15 +238,15 @@
             },
             "notifications": {
                 "title": "Notifikasi",
-                "description": "System notifications for transaction events"
+                "description": "Pemberitahuan sistem untuk transaksi"
             },
             "exportStronghold": {
-                "title": "Export Backup",
-                "description": "Export to a Stronghold file - a complete encrypted backup of your wallets and latest transaction history."
+                "title": "Ekspor Cadangan",
+                "description": "Ekspor ke file Stronghold - cadangan terenkripsi sepenuhnya dari dompet Anda dan riwayat transaksi terbaru."
             },
             "appLock": {
-                "title": "Automatic Lock",
-                "description": "Inactivity time before your wallets lock and you are logged out",
+                "title": "Kunci Otomatis",
+                "description": "Waktu tidak aktif sebelum dompet Anda terkunci dan Anda keluar",
                 "durationMinute": "{time, plural, one {1 minute} other {# minutes}}",
                 "durationHour": "{time, plural, one {1 hour} other {# hours}}"
             },

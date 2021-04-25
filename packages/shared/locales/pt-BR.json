@@ -147,7 +147,7 @@
             "restoringWallet": "Restaurando a carteira...",
             "findingBalance": "Procurando saldo...",
             "incorrectSeedVaultPassword": "Senha SeedVault incorreta.",
-            "noDataSeedVault": "No data could be found in the SeedVault.",
+            "noDataSeedVault": "Nenhum dado foi encontrado no SeedVault.",
             "signingBundle": "Assinando pacote",
             "broadcastingBundle": "Transmitindo pacote",
             "miningBundle": "Minerando pacote",
@@ -247,8 +247,8 @@
             "appLock": {
                 "title": "Bloqueio Automático",
                 "description": "Tempo de inatividade antes do bloqueio de suas carteiras e você ser desconectado",
-                "durationMinute": "{time, plural, one {1 minute} other {# minutes}}",
-                "durationHour": "{time, plural, one {1 hour} other {# hours}}"
+                "durationMinute": "{time, plural, one {1 minuto} other {# minutos}}",
+                "durationHour": "{time, plural, one {1 hora} other {# horas}}"
             },
             "changePassword": {
                 "title": "Alterar Senha",
@@ -701,7 +701,7 @@
         "sentFrom": "Enviado de {account}",
         "receiving": "Recebendo",
         "sending": "Enviando",
-        "legacyNetwork": "Legacy Network"
+        "legacyNetwork": "Rede Legada"
     },
     "dates": {
         "today": "Hoje",

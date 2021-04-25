@@ -1,7 +1,7 @@
 {
     "views": {
         "onboarding1": {
-            "title": "IOTA Gönder, Al ve Yönet",
+            "title": "IOTA tokenlerinizi gönderin, alın ve yönetin",
             "body": "Firefly, IOTA'nın resmi cüzdan yazılımıdır."
         },
         "legal": {
@@ -31,8 +31,8 @@
             "body2": "Kurtarma kitini doldurur ve güvenli bir şekilde saklarsanız, cüzdanlarınızı her zaman kurtarabilirsiniz."
         },
         "password": {
-            "title": "Şifre oluşturun",
-            "body1": "Bakiyeni koruyabilmek için daha güçlü bir şifreye ihtiyacın var. Kelime kombinasyonlarını kullanın ve yaygın cümle, isim ve tarihleri kullanmaktan kaçının.",
+            "title": "Bir şifre oluştur",
+            "body1": "Bakiyeni koruyabilmek için daha güçlü bir şifreye ihtiyacın var. Kelime kombinasyonlarını kullanın, ve yaygın cümle, isim ve tarihleri kullanmaktan kaçının.",
             "body2": "Şifrenizi kurtarma kitinin altına yazmanız önerilir."
         },
         "protect": {
@@ -41,7 +41,7 @@
             "body2": "PIN'inizi güvende saklayın!"
         },
         "pin": {
-            "title": "PIN kodunuzu ayarlayın",
+            "title": "PIN kodu oluşturunuz",
             "body1": "Aşağıya 6 haneli PIN kodunuzu girin. Profilinize girebilmek için PIN sorgulaması yapılacaktır.",
             "body2": "Sadece sayıları kullanın"
         },
@@ -54,7 +54,7 @@
             "title": "Cüzdanınızı yedekleyin",
             "body1": "Kurtarma cümlesi gösterilecektir. Kurtarma kitinize yazın.",
             "body2": "Kurtarma cümlenizi kimse ile paylaşmayınız. Herhangi bir yerden bakiyenize ulaşmak için kullanılabilir.",
-            "body3": "Eğer kurtarma cümlenizi kaybederseniz, varlıklarınızı da kaybedersiniz."
+            "body3": "Eğer kurtarma cümlenizi kaybederseniz, varlıklarınızı kaybedebilirsiniz."
         },
         "recoveryPhrase": {
             "title": "Kurtarma cümlesi",
@@ -65,7 +65,7 @@
             "hideRecoveryPhrase": "Kurtarma sözcüğünü gizle"
         },
         "verifyRecoveryPhrase": {
-            "title": "Kurtarma şifrenizi doğrulayın",
+            "title": "Kurtarma ifadenizi doğrulayın",
             "body": "Aşağıdaya yazmış olduğunuz cümleyi tekrardan kontrol edin. Lütfen her kelimeyi sıralı bir şekilde seçin.",
             "word": "Kelime",
             "verified": "Kurtarma cümlesi onaylandı",
@@ -147,7 +147,7 @@
             "restoringWallet": "Cüzdan geri yükleniyor...",
             "findingBalance": "Bakiye bulunuyor...",
             "incorrectSeedVaultPassword": "Hatalı SeedVault şifresi.",
-            "noDataSeedVault": "No data could be found in the SeedVault.",
+            "noDataSeedVault": "SeedVault'ta hiçbir veri bulunamadı.",
             "signingBundle": "Paket imzalanıyor",
             "broadcastingBundle": "Paket yayınlanıyor",
             "miningBundle": "Paket işleniyor",
@@ -247,8 +247,8 @@
             "appLock": {
                 "title": "Otomatik Kilitleme",
                 "description": "Cüzdanlarınız kilitlenmeden ve çıkış yapılmadan önce hareketsizlik süresi",
-                "durationMinute": "{time, plural, one {1 minute} other {# minutes}}",
-                "durationHour": "{time, plural, one {1 hour} other {# hours}}"
+                "durationMinute": "{time, plural,one {1 dakika}other {# dakikalar}}",
+                "durationHour": "{time, plural,one {1 saat}other {#saatler}}"
             },
             "changePassword": {
                 "title": "Şifre Değiştir",
@@ -701,7 +701,7 @@
         "sentFrom": "{account}'dan gönderildi",
         "receiving": "Alınıyor",
         "sending": "Gönderiliyor",
-        "legacyNetwork": "Legacy Network"
+        "legacyNetwork": "Eski Ağ"
     },
     "dates": {
         "today": "Bugün",

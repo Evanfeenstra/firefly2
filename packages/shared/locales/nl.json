@@ -147,7 +147,7 @@
             "restoringWallet": "Herstellen portemonnee...",
             "findingBalance": "Zoeken saldo...",
             "incorrectSeedVaultPassword": "Onjuist SeedVault wachtwoord.",
-            "noDataSeedVault": "No data could be found in the SeedVault.",
+            "noDataSeedVault": "Er konden geen gegevens worden gevonden in de SeedVault.",
             "signingBundle": "Tekenen bundel",
             "broadcastingBundle": "Uitzenden bundel",
             "miningBundle": "Mijnen bundel",
@@ -247,8 +247,8 @@
             "appLock": {
                 "title": "Automatisch vergrendelen",
                 "description": "Inactiviteit tijd voordat uw portemonnees vergrendelen en u bent uitgelogd",
-                "durationMinute": "{time, plural, one {1 minute} other {# minutes}}",
-                "durationHour": "{time, plural, one {1 hour} other {# hours}}"
+                "durationMinute": "{time, plural, one {1 minuut} other {# minuten}}",
+                "durationHour": "{time, plural, one {1 uur} other {# uur}}"
             },
             "changePassword": {
                 "title": "Wachtwoord wijzigen",
@@ -701,7 +701,7 @@
         "sentFrom": "Verzonden vanaf {account}",
         "receiving": "Ontvangen",
         "sending": "Verzenden",
-        "legacyNetwork": "Legacy Network"
+        "legacyNetwork": "Ouder netwerk"
     },
     "dates": {
         "today": "Vandaag",

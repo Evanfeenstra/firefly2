@@ -147,7 +147,7 @@
             "restoringWallet": "Återställer plånboken...",
             "findingBalance": "Söker saldo...",
             "incorrectSeedVaultPassword": "Felaktigt lösenord för SeedVault.",
-            "noDataSeedVault": "No data could be found in the SeedVault.",
+            "noDataSeedVault": "Ingen data kunde hittas i denna SeedVault.",
             "signingBundle": "Signerar bundle",
             "broadcastingBundle": "Sänder bundle",
             "miningBundle": "Utvinner säker bundle",
@@ -247,8 +247,8 @@
             "appLock": {
                 "title": "Automatiskt lås",
                 "description": "Inaktivitetstid innan din plånbok låses och du loggas ut",
-                "durationMinute": "{time, plural, one {1 minute} other {# minutes}}",
-                "durationHour": "{time, plural, one {1 hour} other {# hours}}"
+                "durationMinute": "{time, plural, one {1 minut} other {# minuter}}",
+                "durationHour": "{time, plural, one {1 timme} other {# timmar}}"
             },
             "changePassword": {
                 "title": "Ändra lösenord",
@@ -701,7 +701,7 @@
         "sentFrom": "Skickat från {account}",
         "receiving": "Tar emot",
         "sending": "Skickar",
-        "legacyNetwork": "Legacy Network"
+        "legacyNetwork": "Ursprungliga nätverket"
     },
     "dates": {
         "today": "Idag",

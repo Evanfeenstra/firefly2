@@ -147,7 +147,7 @@
             "restoringWallet": "Paşbarkirina cuzdankê...",
             "findingBalance": "Mayîn tê dîtin...",
             "incorrectSeedVaultPassword": "Çewtîya pêborîna SeedVault'ê.",
-            "noDataSeedVault": "No data could be found in the SeedVault.",
+            "noDataSeedVault": "Di SeedVault de ti daneyek nehat dîtin.",
             "signingBundle": "Şanenavkirina bestekê",
             "broadcastingBundle": "Bestek tê weşandin",
             "miningBundle": "Şanenav tê xebitandin",
@@ -247,8 +247,8 @@
             "appLock": {
                 "title": "Kilîda Otomatîk",
                 "description": "Dema bêçalaktiyê berî ku çenteyên we kilît bibin û hûn ji nav derkevin",
-                "durationMinute": "{time, plural, one {1 minute} other {# minutes}}",
-                "durationHour": "{time, plural, one {1 hour} other {# hours}}"
+                "durationMinute": "Berî {time, plural, one {1 xulek} other {# xulek}}",
+                "durationHour": "{time, plural, one {1 demjimêr} other {# demjimêr}}"
             },
             "changePassword": {
                 "title": "Pêborînê biguherînê",
@@ -701,7 +701,7 @@
         "sentFrom": "Ji {account} tê şandin",
         "receiving": "Tê standin",
         "sending": "Tê şandin",
-        "legacyNetwork": "Legacy Network"
+        "legacyNetwork": "Tora Kevn"
     },
     "dates": {
         "today": "Evro",

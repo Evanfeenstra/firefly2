@@ -147,7 +147,7 @@
             "restoringWallet": "Αποκατάσταση πορτοφολιού...",
             "findingBalance": "Εύρεση υπολοίπου...",
             "incorrectSeedVaultPassword": "Λανθασμένος κωδικός SeedVault.",
-            "noDataSeedVault": "No data could be found in the SeedVault.",
+            "noDataSeedVault": "Δεν βρέθηκαν δεδομένα στο SeedVault.",
             "signingBundle": "Υπογραφή δέσμης",
             "broadcastingBundle": "Μετάδοση δέσμης",
             "miningBundle": "Υπογραφή δέσμης",
@@ -247,8 +247,8 @@
             "appLock": {
                 "title": "Αυτόματο Κλείδωμα",
                 "description": "Χρόνος αδράνειας πριν από το κλείδωμα του πορτοφολιού σας και αποσυνδεθείτε",
-                "durationMinute": "{time, plural, one {1 minute} other {# minutes}}",
-                "durationHour": "{time, plural, one {1 hour} other {# hours}}"
+                "durationMinute": "{time, plural, one {1 λεπτό} other {# λεπτά}}",
+                "durationHour": "{time, plural, one {1 ώρα} other {# ώρες}}"
             },
             "changePassword": {
                 "title": "Αλλαγή κωδικού",
@@ -701,7 +701,7 @@
         "sentFrom": "Στάλθηκε από {account}",
         "receiving": "Λήψη",
         "sending": "Αποστολή σε εξέλιξη",
-        "legacyNetwork": "Legacy Network"
+        "legacyNetwork": "Παλαιό Δίκτυο"
     },
     "dates": {
         "today": "Σήμερα",

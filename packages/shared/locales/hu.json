@@ -140,14 +140,14 @@
             "new": "Új tárca",
             "learn": "Tudjon meg többet a migrálásról",
             "beginMigration": "Migráció kezdése",
-            "migrating": "Tőke migrálása...",
+            "migrating": "Egyenleg migrálása...",
             "migrated": "{balance} migrálva",
             "migrationFailed": "Sikertelen migráció",
             "noAddressesForMigration": "Válassza ki a címeket, amelyeket biztosítani szeretne.",
             "restoringWallet": "Tárca helyreállítása...",
             "findingBalance": "Egyenleg keresése...",
             "incorrectSeedVaultPassword": "Helytelen SeedVault jelszó.",
-            "noDataSeedVault": "No data could be found in the SeedVault.",
+            "noDataSeedVault": "A SeedVault fájlban nem található adat.",
             "signingBundle": "Kötegtranzakció aláírása",
             "broadcastingBundle": "Kötegtranzakció kiküldése",
             "miningBundle": "Kötegtranzakció bányászása",
@@ -247,8 +247,8 @@
             "appLock": {
                 "title": "Automatikus zárolás",
                 "description": "Tétlenség ideje, mielőtt tárcája automatikusan zárolódik és kilépteti Önt",
-                "durationMinute": "{time, plural, one {1 minute} other {# minutes}}",
-                "durationHour": "{time, plural, one {1 hour} other {# hours}}"
+                "durationMinute": "{time, plural, one {1 perc} other {# perc}}",
+                "durationHour": "{time, plural, one {1 óra} other {# óra}}"
             },
             "changePassword": {
                 "title": "Jelszó módosítása",
@@ -701,7 +701,7 @@
         "sentFrom": "{account} számláról elküldve",
         "receiving": "Fogadás...",
         "sending": "Küldés...",
-        "legacyNetwork": "Legacy Network"
+        "legacyNetwork": "Régi hálózat"
     },
     "dates": {
         "today": "Ma",
